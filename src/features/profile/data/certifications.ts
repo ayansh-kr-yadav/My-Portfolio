@@ -42,12 +42,4 @@ export const CERTIFICATIONS: Certification[] = [
     credentialID: "UC-52e78a56-f687-4653-82b2-a37aca2ac057",
     credentialURL: "/images/experience/cert_5.png",
   },
-  {
-    title: "Viksit Bharat Young Leaders Dialogue (VBYLD) 2026",
-    issuer: "MYBharat - Ministry of Youth Affairs & Sports",
-    issuerLogoURL: "",
-    issueDate: "2025-10-30",
-    credentialID: "",
-    credentialURL: "",
-  },
 ];

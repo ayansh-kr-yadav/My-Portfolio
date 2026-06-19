@@ -2,6 +2,15 @@ import type { Certification } from "../types/certifications";
 
 export const CERTIFICATIONS: Certification[] = [
   {
+    title:
+      "Research Paper — Enhancing Accommodation Discovery: A Hybrid Approach to Paying Guest Recommendation Systems",
+    issuer: "Springer (AdComSys 2024)",
+    issuerLogoURL: "",
+    issueDate: "2024-06-27",
+    credentialID: "UEMK/CST_CSIT/AdComSys24/Auth-33",
+    credentialURL: "/images/experience/cert_6.png",
+  },
+  {
     title: "Supervised Machine Learning: Regression and Classification",
     issuer: "DeepLearning.AI & Stanford Online",
     issuerLogoURL: "",
@@ -39,6 +48,6 @@ export const CERTIFICATIONS: Certification[] = [
     issuerLogoURL: "",
     issueDate: "2025-10-30",
     credentialID: "",
-    credentialURL: "/images/experience/cert_1.png",
+    credentialURL: "",
   },
 ];

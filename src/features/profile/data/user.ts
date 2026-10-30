@@ -19,7 +19,7 @@ export const USER: User = {
   address: "Kolkata, West Bengal, India",
   phoneNumber: "KzkxODg3MzI5Njk4NQ==", // base64 encoded +918873296985
   secondPhoneNumber: "",
-  email: "aGVsbG9AYXlhbnNoLm9ubGluZQ==", // base64 encoded hello@ayansh.online
+  email: "YXlhbnNoa3J5YWRhdjI1QGdtYWlsLmNvbQ==", // base64 encoded ayanshkryadav25@gmail.com
   website: "https://ayansh.online",
   jobTitle: "Full Stack + GenAI Engineer",
   jobs: [
@@ -36,7 +36,7 @@ export const USER: User = {
 - Passionate about turning LLM research into real deployed products.
 - Targeting Full Stack + GenAI engineering roles at Indian product companies and startups.
   `,
-  avatar: "/images/me.jpg",
+  avatar: "/images/me.png",
   ogImage: "/images/og-image-light.png",
   namePronunciationUrl: "",
   keywords: [
